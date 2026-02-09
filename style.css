@@ -1,0 +1,12 @@
+body{margin:0;font-family:Poppins,sans-serif;text-align:center}
+.hero{padding:90px;background:linear-gradient(#fdecec,#fff)}
+.hero h1{font-family:Playfair Display;font-size:54px;color:#7a2e2e}
+.countdown,#timer{font-size:30px;padding:40px;color:#7a2e2e}
+.events,.gallery,.rsvp,.venue-section,.share{padding:60px}
+.event-box{border:1px solid #ddd;border-radius:12px;padding:25px;margin:20px auto;max-width:400px}
+.gallery-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.gallery img{width:100%;border-radius:10px}
+form{max-width:400px;margin:auto;display:flex;flex-direction:column;gap:10px}
+input,textarea,button{padding:10px}
+iframe{width:90%;height:300px;border:0}
+footer{background:#7a2e2e;color:#fff;padding:25px}
